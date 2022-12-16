@@ -1,6 +1,6 @@
 #include <Windows.h>
 #include <iostream>
-#include <mmsystem.h>
+
 using namespace std;
 int main() {
 	PlaySoundA(LPCSTR("a.mp3"), NULL, SND_SYNC);
