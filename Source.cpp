@@ -3,7 +3,6 @@
 #include <mmsystem.h>
 
 int main() {
-	bool a =PlaySoundA(LPCSTR("a.mp3"), NULL, SND_SYNC);
-	if (a == true) { std::cout<<"RFGREG"; };
+	PlaySoundA(LPCSTR("a.mp3"), NULL, SND_SYNC);
 	return 0;
 }
