@@ -4,7 +4,7 @@ probs wont work it does compile though
 
  ## Winmm.lib added to alinker is a must
 
-The code was compiled using latest Visual Studio version C++ desktop developer The libraries have been used from there
+The code was compiled using latest **Visual Studio version C++ desktop developer The libraries have been used from there**
 
 the libs for download available
 ## **iostream**
